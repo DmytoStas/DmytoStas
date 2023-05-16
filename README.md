@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>
-    Hi everyone, my name is Dmytro!
+    Hi everyone, I'm Dmytro!
   </h1>
 </div>
 
@@ -35,9 +35,6 @@ I am a focused and patient Front End developer.<br>I am a hard worker and attent
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DmytoStas&icon=5&color=4)](https://visitcount.itsvg.in)
