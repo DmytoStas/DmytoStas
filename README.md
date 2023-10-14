@@ -36,6 +36,7 @@
   <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
+
 🌐 **Languages** :
 (EN)English - intermediate | (🇺🇦)Ukrainian - native | (PL)Polish - elementary
 
