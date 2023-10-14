@@ -37,7 +37,7 @@
 </div>
 
 
-🌐 **Languages** :
+## 🌐 **Languages** :
 (EN)English - intermediate | (🇺🇦)Ukrainian - native | (PL)Polish - elementary
 
 ## 🌐 Social:
